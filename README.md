@@ -5,4 +5,4 @@
 ## Download
 All files in the Release, Download in Release
 
-### Please read INFO, AUTHORS and LICENSE.txt before using the archives from the release.
+### Please read INFO, AUTHORS and LICENSE before using the archives from the release.
